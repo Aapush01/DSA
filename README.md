@@ -1,4 +1,4 @@
- ## # Data Structures and Algorithms Solutions
+ ##  Data Structures and Algorithms Solutions
  Welcome to my Data Structures and Algorithms repository! Here you'll find my solutions to various DSA problems from different platforms like LeetCode, GeeksforGeeks, HackerRank, and Codeforces.  -
  
  **Table of Contents**
