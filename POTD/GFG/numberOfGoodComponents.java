@@ -49,7 +49,7 @@ class Solution {
     
     static boolean isvalid(HashMap<Integer,Integer> map,int z){
         
-        int a=z-1;
+        int a = z-1;
         for(Map.Entry<Integer,Integer> e : map.entrySet()){
             if(a==0){
                 a=e.getValue();
