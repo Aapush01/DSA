@@ -13,7 +13,7 @@ class Solution {
             graph.get(edges[i][1]).add(edges[i][0]);
         }
         
-        int res=0;
+        int res = 0;
         for(int i=0;i<=v;i++){
             if(graph.get(i).size()==0){
                 res++;
