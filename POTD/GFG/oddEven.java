@@ -1,4 +1,3 @@
- 
     public static String oddEven(String s) {
         // code here
         HashMap<Character,Integer> map = new HashMap<>();
