@@ -1,4 +1,4 @@
-class Solution {
+ 
     public static int MinimumEffort(int rows, int columns, int[][] heights) {
         // code here
          int[][] effort = new int[rows][columns];
@@ -34,4 +34,4 @@ class Solution {
         
         return -1; // Unreachable
     }
-}
+ 
