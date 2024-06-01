@@ -1,8 +1,8 @@
-class Solution {
+ 
     public static int MinimumEffort(int rows, int columns, int[][] heights) {
         // code here
          int[][] effort = new int[rows][columns];
-        for (int i = 0; i < rows; i++) {
+         for (int i = 0; i < rows; i++) {
             Arrays.fill(effort[i], Integer.MAX_VALUE);
         }
         
@@ -34,4 +34,4 @@ class Solution {
         
         return -1; // Unreachable
     }
-}
+ 
