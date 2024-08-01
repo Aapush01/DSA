@@ -17,6 +17,7 @@
  - Java
  - C++
  - JavaScript
+   <br>
 Feel free to contribute solutions in other languages as well!
 
 ## Contributing 
